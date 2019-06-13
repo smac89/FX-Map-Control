@@ -1,6 +1,5 @@
 package fxmapcontrol.sampleapplication;
 
-import fxmapcontrol.AzimuthalEquidistantProjection;
 import fxmapcontrol.BingMapsTileLayer;
 import fxmapcontrol.EquirectangularProjection;
 import fxmapcontrol.GnomonicProjection;
